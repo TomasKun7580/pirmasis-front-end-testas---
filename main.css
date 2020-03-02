@@ -17,6 +17,7 @@ body {
     }
     .content:hover {
         background-color: tan;
+        padding: 50px 20px;
     }
         h1 {
             font-size: 40px;
