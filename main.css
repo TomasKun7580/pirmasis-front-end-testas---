@@ -6,17 +6,17 @@ body {
 }
     .content {
         display: inline-block;
-        height: 400px;
+        height: 200px;
         width: 400px;
         background-color: red;
         text-align: center;
-        margin-top: calc((100vh - 400px) / 2);
+        margin-top: calc((100vh - 200px) / 2);
         margin-left: calc((100% - 400px) / 2);
         border-radius: 100px;
-        padding: 10px 10px;
+        padding: 100px 10px;
     }
     .content:hover {
-        opacity: 0;
+        background-color: tan;
     }
         h1 {
             font-size: 40px;
